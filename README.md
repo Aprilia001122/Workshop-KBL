@@ -1,5 +1,5 @@
 # Workshop-KBL
-Ebook Workshop KBL Bumigora
+Ebook Workshop Komunitas Belajar Linux Bumigora
 Linux Office For Administrator
 
 -----------------------
